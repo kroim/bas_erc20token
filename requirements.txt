@@ -1,0 +1,29 @@
+Need someone to create a smart contract to be able to start our token sale.
+PREVIOUS EXAMPLES/EXPERIENCE WOULD BE BENEFICIAL.
+
+Token will be bought using Ethereum.
+- There will be a fixed supply of our tokens
+- The token sale will last one month
+- When a user buys our token they will recieve - 1ETH = 500 of our token
+   - Week 1 - they will recieve 25% bonus
+   - Week 2 - they will revieve 15% bonus
+   - Week 3 - They will recieve 10% bonus
+   - Week 4 - they will recieve no bonus.
+
+- I want to be able to set the start & stop date for the token sale
+- If the number of tokens are sold before the end date, then the token sale should end
+- Contract must have an admin, which is hard-coded as an ETH address
+- Admin has 30% of all supply of coins and the 70% will be distributed in the coin sale.
+- Admin can generate a list of all users and show number of tokens they have
+- Admin can pull everyone's or individual coins, setting their value = 0 incase of an emergency
+- Needs to be very secure
+
+We will also need to be able to display the statistics on our landing page for this Token Sale/ICO. We will design this just need to show: 
+   - Tokens sold in real-time - So for example we have 1million tokens there needs to be some sort of countdown showing how many are left.
+
+
+PLEASE READ: 
+I will need a developer who can thoroughly test this and create a small information sheet on how the user can purchase the ERC20 Token.
+So for example how they would maybe visit myethereumwallet and what they will need to do etc.
+
+This is just the initial part and depending on quality of work we will require a developer for a lot more work.
